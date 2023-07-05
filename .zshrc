@@ -1,0 +1,7 @@
+alias DL='cd /home/yuto/ダウンロード'
+alias rb='sudo reboot'
+alias sd='sudo poweroff'
+alias la='ls -a'
+alias sudo='sudo '
+alias e='nvim'
+alias 須藤='sudo'
