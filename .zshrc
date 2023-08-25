@@ -1,3 +1,4 @@
+#Oh My ZshからZinitに移行済
 alias DL='cd /home/yuto/ダウンロード'
 alias rb='sudo reboot'
 alias sd='sudo poweroff'
