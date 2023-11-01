@@ -6,8 +6,10 @@ alias sd='sudo poweroff'
 alias la='ls -a'
 alias ls='exa --icons'
 alias sudo='sudo '
-alias e='nvim'
-alias pp='powerpill'
+alias aud='apt update'
+alias aug='apt upgrade'
+alias ais='apt install'
+alias arm='apt --purge remove'
 export EDITOR=nvim
 export VISUAL="$EDITOR"
 
