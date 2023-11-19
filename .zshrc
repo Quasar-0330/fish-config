@@ -22,3 +22,7 @@ zi snippet OMZT::agnoster
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
+
+setopt autocd
+autoload -Uz compinit && compinit
+zstyle ':completion:*' mathcer-list 'm:{a-z}={A-Z}'
