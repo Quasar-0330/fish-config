@@ -26,3 +26,10 @@ zinit light zsh-users/zsh-completions
 setopt autocd
 autoload -Uz compinit && compinit
 zstyle ':completion:*' mathcer-list 'm:{a-z}={A-Z}'
+
+bindkey -v
+bindkey -M viins '^O' backward-delete-char
+bindkey -M viins '^H' backward-char
+bindkey -M viins '^J' down-line-or-history
+bindkey -M viins '^K' up-line-or-history
+bindkey -M viins '^L' forward-char
