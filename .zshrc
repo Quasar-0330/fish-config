@@ -10,6 +10,7 @@ alias aud='apt update'
 alias aug='apt upgrade'
 alias ais='apt install'
 alias arm='apt --purge remove'
+alias e='nvim'
 export EDITOR=nvim
 export VISUAL="$EDITOR"
 
