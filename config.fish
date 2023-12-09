@@ -1,4 +1,3 @@
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 alias DL='cd /home/yuto/ダウンロード'
 alias rb='sudo reboot'
 alias sd='sudo poweroff'
