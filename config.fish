@@ -1,7 +1,7 @@
 alias DL='cd /home/yuto/ダウンロード'
 alias rb='sudo reboot'
 alias sd='sudo poweroff'
-#exaをインストールしてね
+
 alias la='lsd -a'
 alias ls='lsd'
 alias ll='lsd -l'
@@ -16,4 +16,4 @@ export EDITOR=nvim
 export VISUAL="$EDITOR"
 
 fish_vi_key_bindings
-#テーマ oh-my-fish/theme-bobtherfish
+#テーマ oh-my-fish/theme-bobthefish
