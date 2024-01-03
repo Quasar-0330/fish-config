@@ -1,4 +1,4 @@
-alias DL='cd /home/yuto/ダウンロード'
+alias DL='cd /home/yuto/Downloads'
 alias rb='sudo reboot'
 alias sd='sudo poweroff'
 alias la='lsd -a'
@@ -11,4 +11,3 @@ export EDITOR=nvim
 export VISUAL="$EDITOR"
 set -g theme_display_user yes
 set -g theme_display_hostname yes
-fish_vi_key_bindings
